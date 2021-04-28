@@ -1,3 +1,3 @@
 # Product Manager
 
-Product Manager flutter mobile app
+Product Manager flutter mobile app built using Flutter
